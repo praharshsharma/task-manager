@@ -111,5 +111,4 @@ The dashboard uses Clerk for authentication. Users need to sign up or log in to 
 - **Update Task:** Change the priority and status of tasks using the dropdown menus.
 - **Delete Task:** Click the "Delete" button to remove a task.
 - **Search and Filters:** Use the search bar and filters to find tasks by name, description, status, priority, due date, or collaborators.
-# Tasks-Management-System
-# Tasks-Management-System
+
